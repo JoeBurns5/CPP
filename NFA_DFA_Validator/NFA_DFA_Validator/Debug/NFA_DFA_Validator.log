@@ -1,0 +1,13 @@
+﻿  NFA_DFA_Validator.cpp
+C:\Users\Joe\source\repos\JoeBurns5\CPP\NFA_DFA_Validator\NFA_DFA_Validator\NFA_DFA_Validator.cpp(81,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\JoeBurns5\CPP\NFA_DFA_Validator\NFA_DFA_Validator\NFA_DFA_Validator.cpp(90,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\JoeBurns5\CPP\NFA_DFA_Validator\NFA_DFA_Validator\NFA_DFA_Validator.cpp(154,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\JoeBurns5\CPP\NFA_DFA_Validator\NFA_DFA_Validator\NFA_DFA_Validator.cpp(188,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\JoeBurns5\CPP\NFA_DFA_Validator\NFA_DFA_Validator\NFA_DFA_Validator.cpp(196,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\JoeBurns5\CPP\NFA_DFA_Validator\NFA_DFA_Validator\NFA_DFA_Validator.cpp(265,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\JoeBurns5\CPP\NFA_DFA_Validator\NFA_DFA_Validator\NFA_DFA_Validator.cpp(284,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\JoeBurns5\CPP\NFA_DFA_Validator\NFA_DFA_Validator\NFA_DFA_Validator.cpp(326,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\JoeBurns5\CPP\NFA_DFA_Validator\NFA_DFA_Validator\NFA_DFA_Validator.cpp(345,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\JoeBurns5\CPP\NFA_DFA_Validator\NFA_DFA_Validator\NFA_DFA_Validator.cpp(400,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Joe\source\repos\JoeBurns5\CPP\NFA_DFA_Validator\NFA_DFA_Validator\NFA_DFA_Validator.cpp(419,21): warning C4018:  '<': signed/unsigned mismatch
+  NFA_DFA_Validator.vcxproj -> C:\Users\Joe\Source\Repos\JoeBurns5\CPP\NFA_DFA_Validator\Debug\NFA_DFA_Validator.exe
